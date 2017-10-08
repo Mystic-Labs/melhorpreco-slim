@@ -1,7 +1,7 @@
-/vendor/
 /logs/*
 !/logs/README.md
 /templates/LICENSE
 .idea/
+src/materialize-v0.100.2.zip
 templates/LICENSE
 templates/README.md
